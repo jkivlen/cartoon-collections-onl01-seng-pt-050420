@@ -4,7 +4,8 @@ def roll_call_dwarves(collection)
 end
 
 def summon_captain_planet(collection)
-  i = 0
+  planeteer_calls = []
+  
   
 end
 
